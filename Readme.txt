@@ -1,6 +1,6 @@
-Thanks for downloading this template!
+# Mrudul – Flutter Developer Portfolio
 
-Template Name: DevFolio
-Template URL: https://bootstrapmade.com/devfolio-bootstrap-portfolio-html-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Welcome to my portfolio! This website showcases my projects, skills, and expertise as a Flutter developer.
+
+## Live Portfolio
+Check out my live portfolio here: [Portfolio Link](https://mrudul94.github.io/portfolio/)
